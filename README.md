@@ -12,7 +12,7 @@ There are millions of Hotel cancellations in different countries every year, thi
 
 I am going to try to modify and adapt our cancellation policies thanks to Data Analysis to correctly address this matter. For this we are going to: 
 
-        Analayze different different parameters to idenrify useful trends. 
+        Analayze different different parameters to identify useful trends. 
         Build Machine learning models to predict Reservations Cancellation rate. 
         
 Data: 
