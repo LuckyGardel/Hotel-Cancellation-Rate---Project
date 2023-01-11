@@ -54,7 +54,7 @@ Extra information about the dataset can be found here: https://www.researchgate.
 
 . The percentage of cancellations is higher in the City Hotel than in the Resort. The city Hotel should be the main focus, but if we can reduce the Resort cancellation % applying this policies, this would be beneficial for the property as well. 
 
-. The company should focus on growing other market segments rather than Online TA. Direct and Corporate segments have a much lower cancellation rate than Online TA. Focusing the Sales dep. effort to attract more corporate negotiated rates and performing maarketing campaigns and special offers to attract clients to our direct website would result in a lower cancellation rate as well. 
+. The company should focus on growing other market segments rather than Online TA. Direct and Corporate segments have a much lower cancellation rate than Online TA. Focusing the Sales dep. effort to attract more corporate negotiated rates and performing marketing campaigns and special offers to attract clients to our direct website would result in a lower cancellation rate as well. 
 
 . The longer the stay is, the higher is the probability of a cancellation. This trend is more clear in the City Hotel. Apply more restrictive cancellation policies for reservations staying longer than a week. 
 
