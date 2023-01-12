@@ -2,7 +2,7 @@
 
 #### PREDICTING AND REDUCING THE IMPACT OF HOTEL RESERVATIONS CANCELLATION RATE.
 
-The purpose of this project is to analyze customer behavior when performing hotel reservations and cancellations in order to minimize the negative impact of this cancellations in the different properties.  
+The purpose of this project is to analyze customer behavior when performing hotel reservations and cancellations in order to minimize the negative impact of these cancellations in the different properties.  
 
 #### BACKGROUND AND DATA
 
