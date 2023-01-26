@@ -40,9 +40,13 @@ Extra information about the dataset can be found here: https://www.researchgate.
 
 . Saving the cleaned Data to export to Tableau and create connection with SQL. 
 
+        . Tableau graphs: 
+                
+                https://public.tableau.com/views/MidtermPorjectfinalversion/TotalRevenuexCountry-Map?:language=en-US&:display_count=n&:origin=viz_share_link
+
 . Building different Machine Learning Models. 
 
-. Plotting different graphs to obtain other useful information.
+. Plotting different graphs in Python to obtain other useful information.
 
 . Analyze Results and extract Conclusions.
 
