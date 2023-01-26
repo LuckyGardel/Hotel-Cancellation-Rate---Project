@@ -59,3 +59,25 @@ Extra information about the dataset can be found here: https://www.researchgate.
 . The longer the lead time is, the higher is the probability of a cancellation. Again the trend is steeper in the City Hotel. Here we can send reminding emails to our clients so they dont forget about their stay with us. Accompany this with more restrictive cancellation policies for reservations made with more than a month in advance.  
 
 . We have obtained an accurate Machine Learning Model available in order to perform predictions. 
+        
+        # Logistic Regression scores: 0.7423891757165747
+
+                        # precision-->  0.5199477731031481
+                        # recall-->  0.7764298093587522
+                        # f1-->  0.6228169258840908
+
+                # Logistic Regression confusion matrix
+
+                        # [8926, 3309]
+                        # [1032, 3584]
+
+        # MLPClassifier scores: 0.81087175835262
+
+                        # precision-->  0.6278861643100053
+                        # recall-->  0.7599653379549394
+                        # f1-->  0.687640889934333
+
+                # MLPClassifier confusion matrix
+
+                        # [10156,  2079]
+                        # [ 1108,  3508]
