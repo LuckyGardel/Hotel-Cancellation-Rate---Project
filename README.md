@@ -60,7 +60,7 @@ Extra information about the dataset can be found here: https://www.researchgate.
 
 . We have obtained an accurate Machine Learning Model available in order to perform predictions. 
         
-        # Logistic Regression scores: 0.7423891757165747
+        # Logistic Regression test scores: 0.7423891757165747
 
                         # precision-->  0.5199477731031481
                         # recall-->  0.7764298093587522
@@ -71,7 +71,7 @@ Extra information about the dataset can be found here: https://www.researchgate.
                         # [8926, 3309]
                         # [1032, 3584]
 
-        # MLPClassifier scores: 0.81087175835262
+        # MLPClassifier test scores: 0.81087175835262
 
                         # precision-->  0.6278861643100053
                         # recall-->  0.7599653379549394
